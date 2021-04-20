@@ -411,6 +411,8 @@ section {
 
 .skills .progress .skill .val {
   float: right;
+  font-weight: 400;
+  text-transform: none; 
   font-style: normal;
 }
 
